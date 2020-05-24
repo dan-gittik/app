@@ -7,4 +7,4 @@ RUN pip install -r /requirements.txt
 
 EXPOSE 8000
 
-CMD ['python', '-m', 'app', 'run']
+CMD ["python", "-m", "app", "run"]
